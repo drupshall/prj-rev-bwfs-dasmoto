@@ -1,9 +1,11 @@
 /* Main heading banner image */
+
 h1{
   background-image: url("../img/pattern.jpeg");
 }
 
 /* Headings and paragraph font settings */
+
 h1,
 h2,
 h3,
